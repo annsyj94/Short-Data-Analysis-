@@ -1,2 +1,3 @@
-# Fake_News_Detection_Machine_Learning
-Fake News Detection by Machine Learning 
+# Short Data Analysis 
+1. Fake News Detection by Machine Learning 
+2. Souvenir Sales 
